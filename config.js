@@ -1,5 +1,5 @@
 const PAGE_URL = process.env.NODE_ENV === 'production'
-  ? 'placeholder'
+  ? 'https://contact-list-olbp.onrender.com'
   : 'http://localhost:3003';
 
 
